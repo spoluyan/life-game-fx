@@ -1,0 +1,20 @@
+#root, .cell {
+	-fx-background-color: transparent;
+}
+
+#menu {
+	-fx-alignment: center;
+}
+
+#gamePaneHolder {
+	-fx-alignment: top-center;
+}
+
+#gamePane {
+}
+
+.button, .cell {
+	-fx-background-color: transparent;
+	-fx-border-width:  1;
+	-fx-border-color: rgb(221, 221, 221);
+}
